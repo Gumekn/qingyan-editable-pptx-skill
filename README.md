@@ -1,4 +1,4 @@
-# 轻研 Slide｜可编辑学术 PPTX 生成 Skill
+# Qingyan-ppt-design｜轻研可编辑学术 PPTX 生成 Skill
 
 **Editable Academic PowerPoint Generation Skill · Template Learning**
 
@@ -15,16 +15,16 @@
 ```text
 $skill-installer
 
-请从 https://github.com/Gumekn/qingyan-editable-pptx-skill 安装 Skill。
-Skill 位于仓库根目录，请将安装目录命名为 academic-editable-pptx。
+请从 https://github.com/Gumekn/qingyan-editable-pptx-skill 安装 Qingyan-ppt-design。
+Skill 位于仓库根目录，请将安装目录命名为 Qingyan-ppt-design。
 ```
 
-安装器会将仓库根目录中的 `SKILL.md` 和配套资源放入 Codex 用户级技能目录（默认 `~/.codex/skills/academic-editable-pptx/`），供各项目使用。GitHub 仓库名为 `qingyan-editable-pptx-skill`，安装后的技能调用名仍为 `$academic-editable-pptx`。
+安装器会将仓库根目录中的 `SKILL.md` 和配套资源放入 Codex 用户级技能目录 `~/.codex/skills/Qingyan-ppt-design/`（自定义 `CODEX_HOME` 时使用对应目录），供各项目使用。Skill 名称与安装目录统一为 `Qingyan-ppt-design`，调用方式为 `$Qingyan-ppt-design`。
 
 安装后，在任意项目对话中附上研究材料，直接调用；若尚未识别到技能，重启 Codex 后再试：
 
 ```text
-$academic-editable-pptx
+$Qingyan-ppt-design
 
 根据我提供的论文、研究材料和配图，制作一份约 8 页的中文学术汇报。
 优先使用我提供的 PPTX 模板；没有提供时，请从内置模板中推荐。
@@ -33,7 +33,7 @@ $academic-editable-pptx
 
 ## 2. 项目介绍与效果展示
 
-轻研 Slide（简称「轻研」）是一款面向科研与学术汇报的 Codex Skill，通过对话将研究材料转化为学术 PPT。学习真实模板的图文组织、字体、配色与版式，让新内容延续参考风格。支持分阶段确认，交付整页视觉稿与可编辑 PPTX。
+Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研与学术汇报的 Codex Skill，通过对话将研究材料转化为学术 PPT。学习真实模板的图文组织、字体、配色与版式，让新内容延续参考风格。支持分阶段确认，交付整页视觉稿与可编辑 PPTX。
 
 > 效果展示图待补充公开演示案例。
 
