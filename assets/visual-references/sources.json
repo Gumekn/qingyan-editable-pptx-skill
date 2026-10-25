@@ -1,0 +1,385 @@
+{
+  "sources": [
+    {
+      "id": "模板1",
+      "name": "模板1",
+      "description": "蓝白博士开题固定框架，包含北京交通大学标识、原生标题区域及可清理样例内容。",
+      "scenarios": [
+        "博士开题",
+        "开题答辩"
+      ],
+      "aspectRatio": "16:9",
+      "language": "zh-CN",
+      "pptx": "模板1/模板1.pptx",
+      "pptxSha256": "8d6b7d85c12e5ef08b6fea2be69a1985394eed69463ad3932d3366057567f5d4",
+      "preview": "模板1/preview.png",
+      "previewSha256": "958c5dfbe09c36fbc6b298ff49a748938d40ca46721f0047b50f7c8320e5374b",
+      "renderer": "Microsoft PowerPoint 16.0",
+      "sizePixels": [
+        1600,
+        900
+      ],
+      "pages": [
+        {
+          "slide": 1,
+          "file": "模板1/source-slide-01.png",
+          "sha256": "751649ffaa10cff47f8a1161bffedf105ef750b0debb8c01d755c1ba9b9c3caa"
+        },
+        {
+          "slide": 2,
+          "file": "模板1/source-slide-02.png",
+          "sha256": "aafd015df7245e3e9159480c63ba13935c658ec4d5cba5b4cdfb6d736fad69ee"
+        },
+        {
+          "slide": 3,
+          "file": "模板1/source-slide-03.png",
+          "sha256": "4031fd6313d34e228ec01f15e802790516c8b30481a54f6ee2f73c3b17cfbc6c"
+        },
+        {
+          "slide": 4,
+          "file": "模板1/source-slide-04.png",
+          "sha256": "eb5b47a8d234f04d0d3caa245f689d522c1019299f8254805a935c6fa009c422"
+        },
+        {
+          "slide": 5,
+          "file": "模板1/source-slide-05.png",
+          "sha256": "52ea6894477818865bc551b2ac97f8f06145e00dafdd101eab5cb62b7016eb83"
+        },
+        {
+          "slide": 6,
+          "file": "模板1/source-slide-06.png",
+          "sha256": "1e5ddb64f39e2fc9536596db3d71190252a3dbede78f38a87474b1f4aee80ebc"
+        },
+        {
+          "slide": 7,
+          "file": "模板1/source-slide-07.png",
+          "sha256": "db70a855825fe07db431b25ad3bdef0a9f83f9a4203b3556bc92b33dcc34e8b6"
+        },
+        {
+          "slide": 8,
+          "file": "模板1/source-slide-08.png",
+          "sha256": "a13bef9df3759a564f924d883839f8532a2c1e09e676720ce77d252aa45f0977"
+        },
+        {
+          "slide": 9,
+          "file": "模板1/source-slide-09.png",
+          "sha256": "4fc57182a5b1e224a97f8e44e3a8e3b9bf883702ece9c0fcca1fb9d479ffed44"
+        },
+        {
+          "slide": 10,
+          "file": "模板1/source-slide-10.png",
+          "sha256": "bee1bbc754a8672e1a9b433073c4d6e896b12bac793c7d17bf172d92f5346d63"
+        },
+        {
+          "slide": 11,
+          "file": "模板1/source-slide-11.png",
+          "sha256": "414776e2bd9f1474abba2afe7bc79d4352ede6ab497d6a332ee2a0be6baccbf1"
+        },
+        {
+          "slide": 12,
+          "file": "模板1/source-slide-12.png",
+          "sha256": "7926235a6d2956137ed552dc75337b04cd1d73db5893d65189ba7c393c3d3fbc"
+        },
+        {
+          "slide": 13,
+          "file": "模板1/source-slide-13.png",
+          "sha256": "c4cdf184b617bed69122bfc11ab9452fdc913e89d01a7bf258881ddd17496a2e"
+        },
+        {
+          "slide": 14,
+          "file": "模板1/source-slide-14.png",
+          "sha256": "9fda6fd7bd1627e043b0afa3bdd96590e91963580820bbb827e5b1723c8e5996"
+        },
+        {
+          "slide": 15,
+          "file": "模板1/source-slide-15.png",
+          "sha256": "e30a2afc0205e53184ac2deee9d32c61ebb72c715aff8731a67f92c5831095c9"
+        },
+        {
+          "slide": 16,
+          "file": "模板1/source-slide-16.png",
+          "sha256": "a2cda7dc5e1629a120f4f7375dd228f807e29093eac222eed5a08ebf71080364"
+        }
+      ],
+      "textIndex": "模板1/text-index.md",
+      "textIndexSha256": "03da2e38f14dc36a3ba64dd6120f8d98e18f6663f4b3ce6117b78a4e3e297206"
+    },
+    {
+      "id": "模板2",
+      "name": "模板2",
+      "description": "蓝白中期答辩固定框架，包含北京交通大学标识、原生标题区域及大量需清理样例图表。",
+      "scenarios": [
+        "中期答辩",
+        "科研汇报"
+      ],
+      "aspectRatio": "16:9",
+      "language": "zh-CN",
+      "pptx": "模板2/模板2.pptx",
+      "pptxSha256": "5d7389ce8c69c1831fbe6e5dd4a78545db083d213ae54e6fe6a5de6308cd01f7",
+      "preview": "模板2/preview.png",
+      "previewSha256": "aac1a570b2b36274ca36449063fd500ccd27b3efd7719a4597dbed838a63b95e",
+      "renderer": "Microsoft PowerPoint 16.0",
+      "sizePixels": [
+        1600,
+        900
+      ],
+      "pages": [
+        {
+          "slide": 1,
+          "file": "模板2/source-slide-01.png",
+          "sha256": "2814e2c7ffa42df9a050198d6355ccbe50d200fe597ba40528b8155f8caf1060"
+        },
+        {
+          "slide": 2,
+          "file": "模板2/source-slide-02.png",
+          "sha256": "b8efb0ae116b3328c166c2ca9bc3b0c1f0dbb9a2fc42eb2b8b216fe060a56c6d"
+        },
+        {
+          "slide": 3,
+          "file": "模板2/source-slide-03.png",
+          "sha256": "a1b1af852fd9393167f58d7edae96032d402d590e2f3a66a36237d18d2743b84"
+        },
+        {
+          "slide": 4,
+          "file": "模板2/source-slide-04.png",
+          "sha256": "1088aa23286b8dd7a05ca701229c1582c3588423381783b047077c906591a21a"
+        },
+        {
+          "slide": 5,
+          "file": "模板2/source-slide-05.png",
+          "sha256": "5c0585040b393166f3ace19ed9ef10b31f57ecaa63d7c84901162bd049b784ad"
+        },
+        {
+          "slide": 6,
+          "file": "模板2/source-slide-06.png",
+          "sha256": "56fd8d75143b802e52bd00f29dfbb4922f92b4273c6c3cc05190ed413f8a91d1"
+        },
+        {
+          "slide": 7,
+          "file": "模板2/source-slide-07.png",
+          "sha256": "5706a49de6f70305ee943315eaf44db0991aab80d407785c9ad8bd92c5edfca0"
+        },
+        {
+          "slide": 8,
+          "file": "模板2/source-slide-08.png",
+          "sha256": "d05f5083f6e9867345c727b2ea8728b69c3f09a047b1d20e48e29136e48b2d7f"
+        },
+        {
+          "slide": 9,
+          "file": "模板2/source-slide-09.png",
+          "sha256": "7d38b8b65692aadf8a1043b48a347c7d3343c4c6d58dcda95d7405aa107c0d0e"
+        },
+        {
+          "slide": 10,
+          "file": "模板2/source-slide-10.png",
+          "sha256": "35d48a96abd163cea5d0d541958380a3c8b5b23659ed8e59cd916fa9081f3dc2"
+        },
+        {
+          "slide": 11,
+          "file": "模板2/source-slide-11.png",
+          "sha256": "7c7b7728cbecd5850c2255b585d591ba7481cb48183be4b4bee379e839aa54c5"
+        },
+        {
+          "slide": 12,
+          "file": "模板2/source-slide-12.png",
+          "sha256": "b4fb390a9cbf5f633a57527f47037476ce4570c7899073debd8ae99de0c23d29"
+        },
+        {
+          "slide": 13,
+          "file": "模板2/source-slide-13.png",
+          "sha256": "3d394502214de732cede5ce1d41c502acf9592b6796a75d770d7555238ca3669"
+        },
+        {
+          "slide": 14,
+          "file": "模板2/source-slide-14.png",
+          "sha256": "a42ae98480f07f3bf84b8a5b29af9c3498b9dc4665aa6b48219ca9295af90405"
+        },
+        {
+          "slide": 15,
+          "file": "模板2/source-slide-15.png",
+          "sha256": "a838498e6ffa7b45c5af4d285ae2e6ca5f55e409c68128a99c17140eeb8edc4e"
+        }
+      ],
+      "textIndex": "模板2/text-index.md",
+      "textIndexSha256": "85c0a8eb2623b493e316909dd147a1dcf057f2dd0fec19761fa8a078fbd45ab6"
+    },
+    {
+      "id": "模板3",
+      "name": "模板3",
+      "description": "蓝白科研汇报固定框架，包含机构标识、原生标题区域及大量需清理样例图表。",
+      "scenarios": [
+        "科研汇报",
+        "项目答辩"
+      ],
+      "aspectRatio": "16:9",
+      "language": "zh-CN",
+      "pptx": "模板3/模板3.pptx",
+      "pptxSha256": "bc72dea0eeda0eab2ce00dddab95bcac7400b0469ae1ce3eb1f97abf384382a1",
+      "preview": "模板3/preview.png",
+      "previewSha256": "682c48651011bf3c379eb2b33035f1d7cdddeafeca58eadc37dcf6e2cc91e131",
+      "renderer": "Microsoft PowerPoint 16.0",
+      "sizePixels": [
+        1600,
+        900
+      ],
+      "pages": [
+        {
+          "slide": 1,
+          "file": "模板3/source-slide-01.png",
+          "sha256": "85d1d073bf8b69627a41a1e08a7544772ab1519d8e23cee831ab1dbfb71f9a43"
+        },
+        {
+          "slide": 2,
+          "file": "模板3/source-slide-02.png",
+          "sha256": "3dae9b77814e3ac7fcf4604b56b2f1f56d99e71c14e13a8cdde5e69e59a296ad"
+        },
+        {
+          "slide": 3,
+          "file": "模板3/source-slide-03.png",
+          "sha256": "43fda89f6e3f8dfccd2d6b31ccc517b7c7b630ad0d00aa7361e436e48f88d3ad"
+        },
+        {
+          "slide": 4,
+          "file": "模板3/source-slide-04.png",
+          "sha256": "a5522189b5b25a260bb65267415b94e17e637a79d84195d227e9a589581c3380"
+        },
+        {
+          "slide": 5,
+          "file": "模板3/source-slide-05.png",
+          "sha256": "a09ce0ef1b08017cacaf18fa0108287ae1ec84ed024dc7c1b242b799617e6e13"
+        },
+        {
+          "slide": 6,
+          "file": "模板3/source-slide-06.png",
+          "sha256": "5d76751fab639bee0ae026cb6a1daa987b910faa91890d4cf3e7f53544e22f91"
+        },
+        {
+          "slide": 7,
+          "file": "模板3/source-slide-07.png",
+          "sha256": "cbcbc034c6ff44b488c82d11efec4962c4104de17d4a44a839b1ce08f94a159d"
+        },
+        {
+          "slide": 8,
+          "file": "模板3/source-slide-08.png",
+          "sha256": "6e10417e0778368ed57e6531014ff4f5df42dac385e670a421d066ed485af8a2"
+        },
+        {
+          "slide": 9,
+          "file": "模板3/source-slide-09.png",
+          "sha256": "bf47db076429d5aac97721b413048eab1d1ac96f915aad436b47ea515ffccb38"
+        },
+        {
+          "slide": 10,
+          "file": "模板3/source-slide-10.png",
+          "sha256": "c339be850811c4c1bb7f21cec227701038d54dc4bde2e065c26209f4805babba"
+        },
+        {
+          "slide": 11,
+          "file": "模板3/source-slide-11.png",
+          "sha256": "eb200a75b866c32db8b1b6379b2f70e0da6fc79a16ee1fc73fa5839a0e6d44eb"
+        }
+      ],
+      "textIndex": "模板3/text-index.md",
+      "textIndexSha256": "4ca86eaee8b3c423b4dc6b1701814429f8d9eae61555dccd35abb1638e24b354"
+    },
+    {
+      "id": "模板4",
+      "name": "模板4",
+      "description": "蓝白博士开题框架，包含北京交通大学标识、研究背景、技术路线和研究内容等完整示例。",
+      "scenarios": [
+        "博士开题",
+        "开题答辩"
+      ],
+      "aspectRatio": "16:9",
+      "language": "zh-CN",
+      "pptx": "模板4/模板4.pptx",
+      "pptxSha256": "2a6329c854d7d15a79a4b4cbbe86261954cce0b744e91b56facd317c15439e54",
+      "preview": "模板4/preview.png",
+      "previewSha256": "6ec0452dfe7e294abc85ee3d18c041a8589872f490b2a2a9c2bdc35dc5613397",
+      "renderer": "Microsoft PowerPoint 16.0",
+      "sizePixels": [
+        1600,
+        900
+      ],
+      "pages": [
+        {
+          "slide": 1,
+          "file": "模板4/source-slide-01.png",
+          "sha256": "8226ea69b130658c14cac0df383fc3bba2e30a67460489945c2277151c7911be"
+        },
+        {
+          "slide": 2,
+          "file": "模板4/source-slide-02.png",
+          "sha256": "e3cb6027e02e70614b1736d98d07b90c3fe0f4bdba1702d5b85ad525e024d78d"
+        },
+        {
+          "slide": 3,
+          "file": "模板4/source-slide-03.png",
+          "sha256": "040e8e87d752dae6ddb7c3a769dae5719acfd3e42f443058053966c201d9dde4"
+        },
+        {
+          "slide": 4,
+          "file": "模板4/source-slide-04.png",
+          "sha256": "ed2c2815893d3727afb7c2c944541a78a5e0ad8cc75eb844af562c3ab538cac4"
+        },
+        {
+          "slide": 5,
+          "file": "模板4/source-slide-05.png",
+          "sha256": "22895aa107887362d11a69b54f3ccdc5bfd78e5a6a6456afad6075b175cca926"
+        },
+        {
+          "slide": 6,
+          "file": "模板4/source-slide-06.png",
+          "sha256": "8dbc8e26d11c0a60068293dcaa315b3f6cd31715788c39315d618efd12c4d472"
+        },
+        {
+          "slide": 7,
+          "file": "模板4/source-slide-07.png",
+          "sha256": "ca53399f5077abd0d0f42feb251aada0d134636f23bdb0321fbe29f69862a5e9"
+        },
+        {
+          "slide": 8,
+          "file": "模板4/source-slide-08.png",
+          "sha256": "448f0862bd0608e44bb2a0df201035c307aa53bdedaa8480763ad9a2e64b1f38"
+        },
+        {
+          "slide": 9,
+          "file": "模板4/source-slide-09.png",
+          "sha256": "f70b02e54bdd136e337c66a8fd9a141b8e9f33287fe633dc62855c6de5cbb442"
+        },
+        {
+          "slide": 10,
+          "file": "模板4/source-slide-10.png",
+          "sha256": "4520a183413e32c7bc1fbd5959b73545d0e04302d14b7000d341b4f15853c18d"
+        },
+        {
+          "slide": 11,
+          "file": "模板4/source-slide-11.png",
+          "sha256": "5d0b74000cedcd03f89d0a473bf3ad61b25aa1b6c7324ec294b0844067c75205"
+        },
+        {
+          "slide": 12,
+          "file": "模板4/source-slide-12.png",
+          "sha256": "df5f07dae9e47631e8e3c21b9319dc7bc99c7ff14a7af97439450a7fdd5e5fff"
+        },
+        {
+          "slide": 13,
+          "file": "模板4/source-slide-13.png",
+          "sha256": "533a48cd3e269cf06753cf0a89f2e2788c96e027ae0228a87d841a5298dfe683"
+        },
+        {
+          "slide": 14,
+          "file": "模板4/source-slide-14.png",
+          "sha256": "c8f328dafce0fcb2884f94bf1207f492ec172a26af87139d86baf06b1096bd5d"
+        },
+        {
+          "slide": 15,
+          "file": "模板4/source-slide-15.png",
+          "sha256": "2ddc0c8f648dc35786663a0d7fb7b7e5bde8735421a12d1c38d79915dfca5875"
+        }
+      ],
+      "textIndex": "模板4/text-index.md",
+      "textIndexSha256": "7ee79795acc3de02771201b63639ef457d1c7063e95370e3f055d88826fe91c1"
+    }
+  ]
+}

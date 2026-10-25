@@ -1,5 +1,5 @@
 ---
-name: Qingyan-ppt-design
+name: qingyan-ppt-design
 description: 制作或修订中文学术、科研、开题、答辩与论文汇报 PPT；从材料自主组织图文并生成整页视觉稿，按需高保真转换为遵循真实模板的可编辑 PPTX。也适用于已确认视觉稿的转换与局部修订。
 ---
 

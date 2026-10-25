@@ -17,16 +17,16 @@
 ```text
 $skill-installer
 
-请从 https://github.com/Gumekn/qingyan-editable-pptx-skill 安装 Qingyan-ppt-design。
-Skill 位于仓库根目录，请将安装目录命名为 Qingyan-ppt-design。
+请从 https://github.com/Gumekn/qingyan-editable-pptx-skill 安装 qingyan-ppt-design。
+Skill 位于仓库根目录，请将安装目录命名为 qingyan-ppt-design。
 ```
 
-安装器会将仓库根目录中的 `SKILL.md` 和配套资源放入 Codex 用户级技能目录 `~/.codex/skills/Qingyan-ppt-design/`（自定义 `CODEX_HOME` 时使用对应目录），供各项目使用。Skill 名称与安装目录统一为 `Qingyan-ppt-design`，调用方式为 `$Qingyan-ppt-design`。
+安装器会将仓库根目录中的 `SKILL.md` 和配套资源放入 Codex 用户级技能目录 `~/.codex/skills/qingyan-ppt-design/`（自定义 `CODEX_HOME` 时使用对应目录），供各项目使用。内部技能名与安装目录统一为 `qingyan-ppt-design`，调用方式为 `$qingyan-ppt-design`；对外展示名称仍为 Qingyan-ppt-design｜轻研。
 
 安装后，在任意项目对话中附上研究材料，直接调用；若尚未识别到技能，重启 Codex 后再试：
 
 ```text
-$Qingyan-ppt-design
+$qingyan-ppt-design
 
 根据我提供的论文、研究材料和配图，制作一份约 8 页的中文学术汇报。
 优先使用我提供的 PPTX 模板；没有提供时，请从内置模板中推荐。
