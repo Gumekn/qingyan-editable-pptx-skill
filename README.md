@@ -47,7 +47,7 @@ Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研�
 
 在 PowerPoint 中实际渲染的效果如下：
 
-![示例1：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-03.jpg)
+![示例1：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-03-all-selected.jpg)
 
 ### 示例2：研究方法
 
@@ -59,7 +59,7 @@ Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研�
 
 在 PowerPoint 中实际渲染的效果如下：
 
-![示例2：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-04.jpg)
+![示例2：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-04-all-selected.jpg)
 
 ### 示例3：研究结果
 
@@ -71,7 +71,7 @@ Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研�
 
 在 PowerPoint 中实际渲染的效果如下：
 
-![示例3：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-06.jpg)
+![示例3：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-06-all-selected.jpg)
 
 以上编辑截图均在 PowerPoint 画布中按 **Ctrl+A 全选本页组件**后拍摄，可看到文本、表格、图片及形状各自的选中边界。文本内容、表格数据与对象格式可继续修改；论文原图作为独立图片保留，可移动、缩放和替换，图内元素保持原样。
 
