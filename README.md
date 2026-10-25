@@ -35,7 +35,47 @@ $Qingyan-ppt-design
 
 Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研与学术汇报的 Codex Skill，通过对话将研究材料转化为学术 PPT。学习真实模板的图文组织、字体、配色与版式，让新内容延续参考风格。支持分阶段确认，交付整页视觉稿与可编辑 PPTX。
 
-> 效果展示图待补充公开演示案例。
+以下选取 **SafeTraffic Copilot 8 页学术答辩汇报**中的第 3、4、6 页，展示模板参考、最终版面与真实编辑界面。参考页来自内置模板1；成品图均从实际交付的可编辑 PPTX 经 **Microsoft PowerPoint 重新渲染**，分辨率为 1920 × 1080。点击图片可查看大图。
+
+### 示例一：技术路线｜第 3 页
+
+沿用模板的蓝白配色与标题层级，用论文框架图和分组说明呈现技术路线。右侧说明、标题和底部验证说明均为原生文本，可单独修改。
+
+| 模板参考 · 模板1第 5 页 | 最终效果 · PPTX 实际渲染 |
+| --- | --- |
+| ![技术路线模板参考](assets/showcase/safetraffic/reference-05.png) | ![技术路线成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-03.png) |
+
+**在 PowerPoint 中编辑正文：**下图保留完整幻灯片、左侧缩略图与功能区，可看到右侧正文文本框的选中边界及字体设置。
+
+![技术路线页的真实 PowerPoint 编辑窗口，原生正文文本框已选中](assets/showcase/safetraffic/editor-03.jpg)
+
+### 示例二：研究方法｜第 4 页
+
+参考模板中“方法图解＋分区说明”的组织方式，将多模态文本化、模型适配与预测目标安排在同一页。预测目标使用 **PowerPoint 原生表格**，文字、单元格及行列尺寸均可调整。
+
+| 模板参考 · 模板1第 6 页 | 最终效果 · PPTX 实际渲染 |
+| --- | --- |
+| ![研究方法模板参考](assets/showcase/safetraffic/reference-06.png) | ![研究方法成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-04.png) |
+
+**在 PowerPoint 中编辑表格：**预测目标表格已选中，顶部“表布局”功能区显示插入行列、合并单元格与尺寸设置等原生工具。
+
+![研究方法页的真实 PowerPoint 编辑窗口，预测目标表格及表布局工具](assets/showcase/safetraffic/editor-04.jpg)
+
+### 示例三：研究结果｜第 6 页
+
+参考模板的“数据对比＋图表证据＋结果解释”，将模型性能和跨州泛化结果重建为两张原生表格，并保留论文置信度曲线。可以直接修改数值、调整列宽、设置重点数据的字体与颜色。
+
+| 模板参考 · 模板1第 12 页 | 最终效果 · PPTX 实际渲染 |
+| --- | --- |
+| ![研究结果模板参考](assets/showcase/safetraffic/reference-12.png) | ![研究结果成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-06.png) |
+
+**在 PowerPoint 中编辑数据：**上方性能对比表格已选中，完整结果页与“表布局”工具栏同时可见。
+
+![研究结果页的真实 PowerPoint 编辑窗口，原生性能对比表格已选中](assets/showcase/safetraffic/editor-06.jpg)
+
+这三页合计包含 **39 个有文字的原生形状、3 张原生表格**（按页内对象统计，不含母版）。论文框架图、方法图与曲线各作为一张独立图片保留，可移动、缩放和替换；图片内部文字、曲线和连线仍属于原图。以上编辑界面为 PowerPoint 实拍，截图时仅选中对象，未修改汇报内容。
+
+研究材料：Zhao et al., *Nature Communications* (2025), 16:8846，[DOI: 10.1038/s41467-025-64574-w](https://doi.org/10.1038/s41467-025-64574-w)。示例用于展示学术汇报的排版与可编辑交付，研究结论及原图归原论文作者。
 
 ## 3. 核心设计：从真实模板中学习
 
