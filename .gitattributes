@@ -1,0 +1,2 @@
+# Preserve resource bytes so sources.json hashes survive clone and installation.
+assets/visual-references/** -text
