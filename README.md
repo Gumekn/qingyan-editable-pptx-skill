@@ -35,51 +35,53 @@ $Qingyan-ppt-design
 
 Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研与学术汇报的 Codex Skill，通过对话将研究材料转化为学术 PPT。学习真实模板的图文组织、字体、配色与版式，让新内容延续参考风格。支持分阶段确认，交付整页视觉稿与可编辑 PPTX。
 
-以下选取 **SafeTraffic Copilot 8 页学术答辩汇报**中的第 3、4、6 页，展示模板参考、最终版面与真实编辑界面。参考页来自内置模板1；成品图均从实际交付的可编辑 PPTX 经 **Microsoft PowerPoint 重新渲染**，分辨率为 1920 × 1080。点击图片可查看大图。
+以下以 **SafeTraffic Copilot 学术答辩汇报**展示主模板、补充参考与可编辑成品。各组参考图均为制作时实际使用的输入，成品图由交付的 PPTX 在 PowerPoint 中重新渲染。点击图片可查看大图。
 
-### 示例一：技术路线｜第 3 页
+### 示例1：技术路线
 
-沿用模板的蓝白配色与标题层级，用论文框架图和分组说明呈现技术路线。右侧说明、标题和底部验证说明均为原生文本，可单独修改。
+从主模板学习模块分工、分区标题、输入输出与底部联系，从补充参考学习数据基础与后续分析相邻的组织方式。结合论文已有的完整框架图，安排为左侧大图、右侧分层解释、底部验证说明；保留模板的蓝白配色、黄色栏目标题与字体层级。
 
-| 模板参考 · 模板1第 5 页 | 最终效果 · PPTX 实际渲染 |
-| --- | --- |
-| ![技术路线模板参考](assets/showcase/safetraffic/reference-05.png) | ![技术路线成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-03.png) |
+| 主模板参考 | 补充组织参考 | 最终效果 · PPTX 实际渲染 |
+| --- | --- | --- |
+| ![技术路线主模板：模块分工与输入输出](assets/showcase/safetraffic/reference-05.png) | ![技术路线补充参考：数据基础与后续分析的组织](assets/showcase/safetraffic/reference-route-supplement.png) | ![技术路线成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-03.png) |
 
-**在 PowerPoint 中编辑正文：**下图保留完整幻灯片、左侧缩略图与功能区，可看到右侧正文文本框的选中边界及字体设置。
+在 PowerPoint 中实际渲染的效果如下：
 
-![技术路线页的真实 PowerPoint 编辑窗口，原生正文文本框已选中](assets/showcase/safetraffic/editor-03.jpg)
+![示例1：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-03.jpg)
 
-### 示例二：研究方法｜第 4 页
+### 示例2：研究方法
 
-参考模板中“方法图解＋分区说明”的组织方式，将多模态文本化、模型适配与预测目标安排在同一页。预测目标使用 **PowerPoint 原生表格**，文字、单元格及行列尺寸均可调整。
+从主模板学习机制图与解释段落同组、标题分层，从补充参考学习操作、科学关系与说明就近呈现。将论文三段流程图完整放在左侧，右侧按文本化、模型适配、预测目标和置信度组织说明，数据规模紧邻图下；预测目标重建为原生表格。
 
-| 模板参考 · 模板1第 6 页 | 最终效果 · PPTX 实际渲染 |
-| --- | --- |
-| ![研究方法模板参考](assets/showcase/safetraffic/reference-06.png) | ![研究方法成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-04.png) |
+| 主模板参考 | 补充组织参考 | 最终效果 · PPTX 实际渲染 |
+| --- | --- | --- |
+| ![研究方法主模板：机制图与解释分组](assets/showcase/safetraffic/reference-06.png) | ![研究方法补充参考：操作与说明相邻](assets/showcase/safetraffic/reference-method-supplement.png) | ![研究方法成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-04.png) |
 
-**在 PowerPoint 中编辑表格：**预测目标表格已选中，顶部“表布局”功能区显示插入行列、合并单元格与尺寸设置等原生工具。
+在 PowerPoint 中实际渲染的效果如下：
 
-![研究方法页的真实 PowerPoint 编辑窗口，预测目标表格及表布局工具](assets/showcase/safetraffic/editor-04.jpg)
+![示例2：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-04.jpg)
 
-### 示例三：研究结果｜第 6 页
+### 示例3：研究结果
 
-参考模板的“数据对比＋图表证据＋结果解释”，将模型性能和跨州泛化结果重建为两张原生表格，并保留论文置信度曲线。可以直接修改数值、调整列宽、设置重点数据的字体与颜色。
+从主模板学习表格与多组证据相邻、解释紧靠数据的高密度排版，从补充参考学习定量比较就地解释。成品左侧安排州内与跨州结果表，右侧安排置信度曲线及解释，底部集中交代评估条件；表格采用蓝色表头、浅色隔行与重点数值加粗，保持数字字号一致。
 
-| 模板参考 · 模板1第 12 页 | 最终效果 · PPTX 实际渲染 |
-| --- | --- |
-| ![研究结果模板参考](assets/showcase/safetraffic/reference-12.png) | ![研究结果成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-06.png) |
+| 主模板参考 | 补充组织参考 | 最终效果 · PPTX 实际渲染 |
+| --- | --- | --- |
+| ![研究结果主模板：表格、图证据与解释相邻](assets/showcase/safetraffic/reference-12.png) | ![研究结果补充参考：定量比较就地解释](assets/showcase/safetraffic/reference-results-supplement.png) | ![研究结果成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-06.png) |
 
-**在 PowerPoint 中编辑数据：**上方性能对比表格已选中，完整结果页与“表布局”工具栏同时可见。
+在 PowerPoint 中实际渲染的效果如下：
 
-![研究结果页的真实 PowerPoint 编辑窗口，原生性能对比表格已选中](assets/showcase/safetraffic/editor-06.jpg)
+![示例3：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-06.jpg)
 
-这三页合计包含 **39 个有文字的原生形状、3 张原生表格**（按页内对象统计，不含母版）。论文框架图、方法图与曲线各作为一张独立图片保留，可移动、缩放和替换；图片内部文字、曲线和连线仍属于原图。以上编辑界面为 PowerPoint 实拍，截图时仅选中对象，未修改汇报内容。
+以上编辑截图均在 PowerPoint 画布中按 **Ctrl+A 全选本页组件**后拍摄，可看到文本、表格、图片及形状各自的选中边界。文本内容、表格数据与对象格式可继续修改；论文原图作为独立图片保留，可移动、缩放和替换，图内元素保持原样。
 
 研究材料：Zhao et al., *Nature Communications* (2025), 16:8846，[DOI: 10.1038/s41467-025-64574-w](https://doi.org/10.1038/s41467-025-64574-w)。示例用于展示学术汇报的排版与可编辑交付，研究结论及原图归原论文作者。
 
 ## 3. 核心设计：从真实模板中学习
 
-以用户指定模板为主要依据，比较多份 PPT 中的同类页面，学习图文组织、文字层级、配色、版式与留白，形成适合本次材料的设计方案。将具体参考页、原始素材和完整文稿共同传入生成请求，让参考中的表达方式落实到每一页，并在整套汇报中延续已确认的风格。
+以用户指定模板为主要依据，比较多份 PPT 中的同类页面，学习图文组织、文字层级、配色、版式与留白，形成适合本次材料的设计方案。
+
+本次示例先比较整套模板预览，再按技术路线、方法和结果分别选择主参考与补充参考。生成每张视觉稿时，同时传入真实模板净底板、论文原图、两张参考页和完整文稿，并在提示词中逐项写明借鉴的组织方式及本页如何落实。页眉与标识保留在原位，正文按原图比例和信息量重新安排；参考中的研究内容不带入本次汇报。视觉稿确认后，再将文本、表格和形状重建为可编辑对象，保留独立论文原图，并用 PowerPoint 实际渲染核对。
 
 ## 4. 制作流程：输入、阶段与交付
 
