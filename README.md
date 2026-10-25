@@ -95,16 +95,3 @@ Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研�
 | 可编辑交付 | 重建 PPTX，展示实际渲染与可编辑性，确认交付版本 |
 
 产物保存在指定任务目录：`配图素材/` 保存选定原图，`视觉稿/` 保存整页 PNG，`可编辑版本/` 保存 PPTX 及渲染预览，`content-plan.md` 记录方案、来源与确认结果。文本、表格、流程等按可编辑对象重建；直接使用的论文原图与复杂插图保留为独立图片。
-
-## 5. 配套模板与运行环境
-
-内置四套 PPTX 模板，配有整套预览、逐页 PNG 和文字索引。用户指定模板决定主要风格与固定格式，其他参考提供补充。
-
-| 模板 | 原始 PPTX | 整套预览 |
-| --- | --- | --- |
-| 模板1 | [下载](assets/visual-references/模板1/模板1.pptx) | [查看](assets/visual-references/模板1/preview.png) |
-| 模板2 | [下载](assets/visual-references/模板2/模板2.pptx) | [查看](assets/visual-references/模板2/preview.png) |
-| 模板3 | [下载](assets/visual-references/模板3/模板3.pptx) | [查看](assets/visual-references/模板3/preview.png) |
-| 模板4 | [下载](assets/visual-references/模板4/模板4.pptx) | [查看](assets/visual-references/模板4/preview.png) |
-
-完整流程需要具备本地文件读写、ImageGen 生图和 PPTX 编辑能力的 Codex 环境；实际 PPTX 渲染优先使用 Microsoft PowerPoint。这些工具由运行环境提供，本项目提供 [Skill 工作流程](SKILL.md) 与配套模板资源。
