@@ -38,7 +38,7 @@ $qingyan-ppt-design
 Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研与学术汇报的 Codex Skill，通过对话将研究材料转化为学术 PPT。学习真实模板的图文组织、字体、配色与版式，让新内容延续参考风格。支持分阶段确认，交付整页视觉稿与可编辑 PPTX。
 
 <p align="center">
-  <img src="assets/showcase/qingyan-product-overview.png" alt="轻研产品介绍：学术 PPT 使用场景、原始材料与模板学习、方案到逐页文稿和可编辑 PPT 的四阶段流程" width="720">
+  <img src="assets/showcase/qingyan-product-overview.png" alt="轻研产品介绍：学术 PPT 使用场景、原始材料与模板学习、方案到逐页文稿和可编辑 PPT 的四阶段流程" width="480">
 </p>
 
 以下为利用「轻研」真实制作过程中的效果记录，展示模板参考、生成效果与可编辑成品。参考图均为制作时实际使用的输入，成品图由 PPTX 在 PowerPoint 中实际渲染，编辑截图展示页面组件的全选状态。
