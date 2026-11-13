@@ -11,9 +11,9 @@
       "aspectRatio": "16:9",
       "language": "zh-CN",
       "pptx": "模板1/模板1.pptx",
-      "pptxSha256": "8d6b7d85c12e5ef08b6fea2be69a1985394eed69463ad3932d3366057567f5d4",
+      "pptxSha256": "19d1eb47b2ce4d032d8328ef8d7d6207f1bdd08406cc4906afb672eb818846a5",
       "preview": "模板1/preview.png",
-      "previewSha256": "958c5dfbe09c36fbc6b298ff49a748938d40ca46721f0047b50f7c8320e5374b",
+      "previewSha256": "32d602231129f4aa106bf729bab050cfe23f3f93d207107f6d24f73b751e03f5",
       "renderer": "Microsoft PowerPoint 16.0",
       "sizePixels": [
         1600,
@@ -89,20 +89,10 @@
           "slide": 14,
           "file": "模板1/source-slide-14.png",
           "sha256": "9fda6fd7bd1627e043b0afa3bdd96590e91963580820bbb827e5b1723c8e5996"
-        },
-        {
-          "slide": 15,
-          "file": "模板1/source-slide-15.png",
-          "sha256": "e30a2afc0205e53184ac2deee9d32c61ebb72c715aff8731a67f92c5831095c9"
-        },
-        {
-          "slide": 16,
-          "file": "模板1/source-slide-16.png",
-          "sha256": "a2cda7dc5e1629a120f4f7375dd228f807e29093eac222eed5a08ebf71080364"
         }
       ],
       "textIndex": "模板1/text-index.md",
-      "textIndexSha256": "03da2e38f14dc36a3ba64dd6120f8d98e18f6663f4b3ce6117b78a4e3e297206"
+      "textIndexSha256": "e2b9dbb473aa2e47fc79f0899a5487955af12a5d6386d3cbca011130838b908d"
     },
     {
       "id": "模板2",

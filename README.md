@@ -33,55 +33,9 @@ $qingyan-ppt-design
 最终交付整页 PNG 视觉稿和可编辑 PPTX。
 ```
 
-## 2. 项目介绍与效果展示
+## 2. 项目介绍
 
 Qingyan-ppt-design（轻研 Slide，简称「轻研」）是一款面向科研与学术汇报的 Codex Skill，通过对话将研究材料转化为学术 PPT。学习真实模板的图文组织、字体、配色与版式，让新内容延续参考风格。支持分阶段确认，交付整页视觉稿与可编辑 PPTX。
-
-<p align="center">
-  <img src="assets/showcase/qingyan-product-overview.png" alt="轻研产品介绍：学术 PPT 使用场景、原始材料与模板学习、方案到逐页文稿和可编辑 PPT 的四阶段流程" width="480">
-</p>
-
-以下为利用「轻研」真实制作过程中的效果记录，展示模板参考、生成效果与可编辑成品。参考图均为制作时实际使用的输入，成品图由 PPTX 在 PowerPoint 中实际渲染，编辑截图展示页面组件的全选状态。
-
-### 示例1：技术路线
-
-从主模板学习模块分工、分区标题、输入输出与底部联系，从补充参考学习数据基础与后续分析相邻的组织方式。结合论文已有的完整框架图，安排为左侧大图、右侧分层解释、底部验证说明；保留模板的蓝白配色、黄色栏目标题与字体层级。
-
-| 主模板参考 | 补充组织参考 | 最终效果 · PPTX 实际渲染 |
-| --- | --- | --- |
-| ![技术路线主模板：模块分工与输入输出](assets/showcase/safetraffic/reference-05.png) | ![技术路线补充参考：数据基础与后续分析的组织](assets/showcase/safetraffic/reference-route-supplement.png) | ![技术路线成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-03.png) |
-
-在 PowerPoint 中实际渲染的效果如下：
-
-![示例1：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-03-all-selected.jpg)
-
-### 示例2：研究方法
-
-从主模板学习机制图与解释段落同组、标题分层，从补充参考学习操作、科学关系与说明就近呈现。将论文三段流程图完整放在左侧，右侧按文本化、模型适配、预测目标和置信度组织说明，数据规模紧邻图下；预测目标重建为原生表格。
-
-| 主模板参考 | 补充组织参考 | 最终效果 · PPTX 实际渲染 |
-| --- | --- | --- |
-| ![研究方法主模板：机制图与解释分组](assets/showcase/safetraffic/reference-06.png) | ![研究方法补充参考：操作与说明相邻](assets/showcase/safetraffic/reference-method-supplement.png) | ![研究方法成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-04.png) |
-
-在 PowerPoint 中实际渲染的效果如下：
-
-![示例2：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-04-all-selected.jpg)
-
-### 示例3：研究结果
-
-从主模板学习表格与多组证据相邻、解释紧靠数据的高密度排版，从补充参考学习定量比较就地解释。成品左侧安排州内与跨州结果表，右侧安排置信度曲线及解释，底部集中交代评估条件；表格采用蓝色表头、浅色隔行与重点数值加粗，保持数字字号一致。
-
-| 主模板参考 | 补充组织参考 | 最终效果 · PPTX 实际渲染 |
-| --- | --- | --- |
-| ![研究结果主模板：表格、图证据与解释相邻](assets/showcase/safetraffic/reference-12.png) | ![研究结果补充参考：定量比较就地解释](assets/showcase/safetraffic/reference-results-supplement.png) | ![研究结果成品的 PowerPoint 实际渲染](assets/showcase/safetraffic/slide-06.png) |
-
-在 PowerPoint 中实际渲染的效果如下：
-
-![示例3：在 PowerPoint 画布中按 Ctrl+A 全选本页组件](assets/showcase/safetraffic/editor-06-all-selected.jpg)
-
-以上编辑截图均在 PowerPoint 画布中按 **Ctrl+A 全选本页组件**后拍摄，可看到文本、表格、图片及形状各自的选中边界。文本内容、表格数据与对象格式可继续修改；论文原图作为独立图片保留，可移动、缩放和替换，图内元素保持原样。
-
-研究材料：Zhao et al., *Nature Communications* (2025), 16:8846，[DOI: 10.1038/s41467-025-64574-w](https://doi.org/10.1038/s41467-025-64574-w)。示例用于展示学术汇报的排版与可编辑交付，研究结论及原图归原论文作者。
 
 ## 3. 核心设计：从真实模板中学习
 
