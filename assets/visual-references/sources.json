@@ -3,7 +3,7 @@
     {
       "id": "模板1",
       "name": "模板1",
-      "description": "蓝白博士开题固定框架，包含北京交通大学标识、原生标题区域及可清理样例内容。",
+      "description": "蓝白高密度博士开题框架，包含北京交通大学标识、顶部栏目带、封面标题区和多栏卡片/图表正文。",
       "scenarios": [
         "博士开题",
         "开题答辩"
@@ -23,81 +23,246 @@
         {
           "slide": 1,
           "file": "模板1/source-slide-01.png",
-          "sha256": "751649ffaa10cff47f8a1161bffedf105ef750b0debb8c01d755c1ba9b9c3caa"
+          "sha256": "751649ffaa10cff47f8a1161bffedf105ef750b0debb8c01d755c1ba9b9c3caa",
+          "role": "cover",
+          "purpose": "汇报身份、题目、报告人和时间",
+          "density": "低"
         },
         {
           "slide": 2,
           "file": "模板1/source-slide-02.png",
-          "sha256": "aafd015df7245e3e9159480c63ba13935c658ec4d5cba5b4cdfb6d736fad69ee"
+          "sha256": "aafd015df7245e3e9159480c63ba13935c658ec4d5cba5b4cdfb6d736fad69ee",
+          "role": "agenda",
+          "purpose": "章节目录与汇报结构",
+          "density": "低"
         },
         {
           "slide": 3,
           "file": "模板1/source-slide-03.png",
-          "sha256": "4031fd6313d34e228ec01f15e802790516c8b30481a54f6ee2f73c3b17cfbc6c"
+          "sha256": "4031fd6313d34e228ec01f15e802790516c8b30481a54f6ee2f73c3b17cfbc6c",
+          "role": "background",
+          "purpose": "背景问题、统计证据与研究必要性",
+          "density": "高"
         },
         {
           "slide": 4,
           "file": "模板1/source-slide-04.png",
-          "sha256": "eb5b47a8d234f04d0d3caa245f689d522c1019299f8254805a935c6fa009c422"
+          "sha256": "eb5b47a8d234f04d0d3caa245f689d522c1019299f8254805a935c6fa009c422",
+          "role": "background",
+          "purpose": "研究现状、已有方法与具体缺口",
+          "density": "高"
         },
         {
           "slide": 5,
           "file": "模板1/source-slide-05.png",
-          "sha256": "52ea6894477818865bc551b2ac97f8f06145e00dafdd101eab5cb62b7016eb83"
+          "sha256": "52ea6894477818865bc551b2ac97f8f06145e00dafdd101eab5cb62b7016eb83",
+          "role": "route",
+          "purpose": "数据、模型和研究内容的总体技术路线",
+          "density": "高"
         },
         {
           "slide": 6,
           "file": "模板1/source-slide-06.png",
-          "sha256": "1e5ddb64f39e2fc9536596db3d71190252a3dbede78f38a87474b1f4aee80ebc"
+          "sha256": "1e5ddb64f39e2fc9536596db3d71190252a3dbede78f38a87474b1f4aee80ebc",
+          "role": "method",
+          "purpose": "方法流程、算法组合和阶段性贡献",
+          "density": "高"
         },
         {
           "slide": 7,
           "file": "模板1/source-slide-07.png",
-          "sha256": "db70a855825fe07db431b25ad3bdef0a9f83f9a4203b3556bc92b33dcc34e8b6"
+          "sha256": "db70a855825fe07db431b25ad3bdef0a9f83f9a4203b3556bc92b33dcc34e8b6",
+          "role": "method",
+          "purpose": "变量、模型和解释方法的组合关系",
+          "density": "高"
         },
         {
           "slide": 8,
           "file": "模板1/source-slide-08.png",
-          "sha256": "a13bef9df3759a564f924d883839f8532a2c1e09e676720ce77d252aa45f0977"
+          "sha256": "a13bef9df3759a564f924d883839f8532a2c1e09e676720ce77d252aa45f0977",
+          "role": "route",
+          "purpose": "研究内容与技术模块的展开路线",
+          "density": "高"
         },
         {
           "slide": 9,
           "file": "模板1/source-slide-09.png",
-          "sha256": "4fc57182a5b1e224a97f8e44e3a8e3b9bf883702ece9c0fcca1fb9d479ffed44"
+          "sha256": "4fc57182a5b1e224a97f8e44e3a8e3b9bf883702ece9c0fcca1fb9d479ffed44",
+          "role": "route",
+          "purpose": "章节关联、数据支持和研究闭环",
+          "density": "中高"
         },
         {
           "slide": 10,
           "file": "模板1/source-slide-10.png",
-          "sha256": "bee1bbc754a8672e1a9b433073c4d6e896b12bac793c7d17bf172d92f5346d63"
+          "sha256": "bee1bbc754a8672e1a9b433073c4d6e896b12bac793c7d17bf172d92f5346d63",
+          "role": "results",
+          "purpose": "问题、方法和结果的对应关系",
+          "density": "高"
         },
         {
           "slide": 11,
           "file": "模板1/source-slide-11.png",
-          "sha256": "414776e2bd9f1474abba2afe7bc79d4352ede6ab497d6a332ee2a0be6baccbf1"
+          "sha256": "414776e2bd9f1474abba2afe7bc79d4352ede6ab497d6a332ee2a0be6baccbf1",
+          "role": "results",
+          "purpose": "多源数据、变量和阶段性研究结果",
+          "density": "高"
         },
         {
           "slide": 12,
           "file": "模板1/source-slide-12.png",
-          "sha256": "7926235a6d2956137ed552dc75337b04cd1d73db5893d65189ba7c393c3d3fbc"
+          "sha256": "7926235a6d2956137ed552dc75337b04cd1d73db5893d65189ba7c393c3d3fbc",
+          "role": "results",
+          "purpose": "对比指标、高风险因素和结论解释",
+          "density": "高"
         },
         {
           "slide": 13,
           "file": "模板1/source-slide-13.png",
-          "sha256": "c4cdf184b617bed69122bfc11ab9452fdc913e89d01a7bf258881ddd17496a2e"
+          "sha256": "c4cdf184b617bed69122bfc11ab9452fdc913e89d01a7bf258881ddd17496a2e",
+          "role": "innovation",
+          "purpose": "创新点分层和贡献总结",
+          "density": "中高"
         },
         {
           "slide": 14,
           "file": "模板1/source-slide-14.png",
-          "sha256": "9fda6fd7bd1627e043b0afa3bdd96590e91963580820bbb827e5b1723c8e5996"
+          "sha256": "9fda6fd7bd1627e043b0afa3bdd96590e91963580820bbb827e5b1723c8e5996",
+          "role": "closing",
+          "purpose": "致谢与结束",
+          "density": "低"
         }
       ],
       "textIndex": "模板1/text-index.md",
-      "textIndexSha256": "e2b9dbb473aa2e47fc79f0899a5487955af12a5d6386d3cbca011130838b908d"
+      "textIndexSha256": "fbb33965ea6d0beab9045d053e141ada2e66f120d6c29c301eb1752d6e235297",
+      "selectionProfile": {
+        "primaryUse": [
+          "博士开题",
+          "开题答辩",
+          "高密度科研汇报"
+        ],
+        "density": "高",
+        "visualSignature": "白色正文区配深蓝栏目带，橙黄小范围强调，右上角北京交通大学标识，正文多用并列卡片、图表和流程组合。",
+        "contentFit": [
+          "技术路线",
+          "方法与机制",
+          "多图表结果",
+          "创新点与研究进展"
+        ],
+        "caution": [
+          "不适合只包含少量文字和单张大图的极简叙事页"
+        ]
+      },
+      "fixedElements": {
+        "global": [
+          "母版右上角北京交通大学 Logo，位置、比例和清晰度固定",
+          "正文页左上角栏目标题槽位，标题文字可变但位置、字号、颜色和对齐方式沿用原生样式",
+          "正文页顶部蓝色渐变栏、细线和右侧弧形白色切角，属于背景/母版层",
+          "页面编号槽位（实际存在的页面保留原位）"
+        ],
+        "cover": [
+          "封面背景构图、蓝色标题带、下方图片带和报告信息区的几何位置属于模板结构；题目、导师、报告人、日期和图片内容属于当前内容，可替换"
+        ],
+        "closing": [
+          "致谢页蓝色块、照片区域和校标位置属于模板结构；致谢文字和照片内容属于当前内容，可替换"
+        ]
+      },
+      "editableRegion": "正文内容区为顶部栏目槽位以下的白色页面区域；封面字段/图片带和致谢文字/照片是固定几何中的可替换内容。",
+      "designTokens": {
+        "palette": [
+          {
+            "name": "主深蓝",
+            "approxHex": "#1D4783",
+            "usage": "封面标题区、栏目带、重点标题和结构块"
+          },
+          {
+            "name": "辅助蓝",
+            "approxHex": "#577DA4",
+            "usage": "次级容器、流程节点和边界"
+          },
+          {
+            "name": "橙黄强调",
+            "approxHex": "#FFC000",
+            "usage": "章节标识、重点词和局部强调"
+          },
+          {
+            "name": "正文底色",
+            "approxHex": "#FFFFFF",
+            "usage": "正文可写区域"
+          }
+        ],
+        "typography": {
+          "primaryCJK": "微软雅黑",
+          "latin": "Times New Roman",
+          "commonSizesPt": "正文约12-16，小注约10-12，页内标题约18-27，封面标题约36-45"
+        },
+        "layout": "顶部栏目带固定，正文以多栏卡片、图表、流程和局部说明组合；组间留白较紧，强调信息覆盖。",
+        "bordersAndShapes": "蓝色实线/细框、圆角或矩形信息块并用；流程关系使用明确箭头。"
+      },
+      "pageTypeMap": {
+        "cover": [
+          1
+        ],
+        "agenda": [
+          2
+        ],
+        "background": [
+          3,
+          4
+        ],
+        "route": [
+          5,
+          8,
+          9
+        ],
+        "method": [
+          6,
+          7
+        ],
+        "results": [
+          10,
+          11,
+          12
+        ],
+        "innovation": [
+          13
+        ],
+        "closing": [
+          14
+        ]
+      },
+      "fixedElementBoundary": "只把母版/背景层中的校标、正文页左上角栏目标题槽位、顶部蓝色渐变栏/细线/弧形白色切角和页码槽位视为固定模板元素。正文区中的白色留白、卡片、图表、流程、文字、照片和数据均属于当前汇报内容，不因示例中已排好而变成固定模板。",
+      "contentAreas": [
+        {
+          "name": "正文内容区",
+          "status": "content",
+          "boundary": "顶部栏目槽位以下至页面底部的白色区域",
+          "rule": "所有正文标题、段落、图表、流程、卡片、照片、数字和留白按当前材料重组，不预设统一图槽"
+        },
+        {
+          "name": "封面字段区",
+          "status": "content-with-fixed-geometry",
+          "boundary": "封面蓝色标题带和右下报告信息区",
+          "rule": "几何位置和层级沿用模板；题目、导师、报告人和日期来自当前任务"
+        },
+        {
+          "name": "封面图片带",
+          "status": "content-with-fixed-geometry",
+          "boundary": "封面标题带下方的图片带",
+          "rule": "图片数量、来源和内容可替换；保留模板提供的带状排列、圆角和比例关系"
+        },
+        {
+          "name": "致谢内容区",
+          "status": "content-with-fixed-geometry",
+          "boundary": "致谢页蓝色区域及其照片区域",
+          "rule": "文字和照片可替换；蓝色块与照片的相对位置沿用模板结构"
+        }
+      ]
     },
     {
       "id": "模板2",
       "name": "模板2",
-      "description": "蓝白中期答辩固定框架，包含北京交通大学标识、原生标题区域及大量需清理样例图表。",
+      "description": "蓝白中期答辩与科研汇报框架，包含北京交通大学标识、弧形顶部、圆角目录页、蓝色章节条和大量图表/流程示例。",
       "scenarios": [
         "中期答辩",
         "科研汇报"
@@ -117,86 +282,265 @@
         {
           "slide": 1,
           "file": "模板2/source-slide-01.png",
-          "sha256": "2814e2c7ffa42df9a050198d6355ccbe50d200fe597ba40528b8155f8caf1060"
+          "sha256": "2814e2c7ffa42df9a050198d6355ccbe50d200fe597ba40528b8155f8caf1060",
+          "role": "cover",
+          "purpose": "汇报身份、题目、报告人和时间",
+          "density": "低"
         },
         {
           "slide": 2,
           "file": "模板2/source-slide-02.png",
-          "sha256": "b8efb0ae116b3328c166c2ca9bc3b0c1f0dbb9a2fc42eb2b8b216fe060a56c6d"
+          "sha256": "b8efb0ae116b3328c166c2ca9bc3b0c1f0dbb9a2fc42eb2b8b216fe060a56c6d",
+          "role": "agenda",
+          "purpose": "研究背景、内容进展和后续安排目录",
+          "density": "低"
         },
         {
           "slide": 3,
           "file": "模板2/source-slide-03.png",
-          "sha256": "a1b1af852fd9393167f58d7edae96032d402d590e2f3a66a36237d18d2743b84"
+          "sha256": "a1b1af852fd9393167f58d7edae96032d402d590e2f3a66a36237d18d2743b84",
+          "role": "background",
+          "purpose": "政策/研究背景、数据证据和问题提出",
+          "density": "中高"
         },
         {
           "slide": 4,
           "file": "模板2/source-slide-04.png",
-          "sha256": "1088aa23286b8dd7a05ca701229c1582c3588423381783b047077c906591a21a"
+          "sha256": "1088aa23286b8dd7a05ca701229c1582c3588423381783b047077c906591a21a",
+          "role": "route",
+          "purpose": "研究问题、技术路线和验证流程",
+          "density": "高"
         },
         {
           "slide": 5,
           "file": "模板2/source-slide-05.png",
-          "sha256": "5c0585040b393166f3ace19ed9ef10b31f57ecaa63d7c84901162bd049b784ad"
+          "sha256": "5c0585040b393166f3ace19ed9ef10b31f57ecaa63d7c84901162bd049b784ad",
+          "role": "progress",
+          "purpose": "任务安排、预计时间、完成状态和累计进度",
+          "density": "中高"
         },
         {
           "slide": 6,
           "file": "模板2/source-slide-06.png",
-          "sha256": "56fd8d75143b802e52bd00f29dfbb4922f92b4273c6c3cc05190ed413f8a91d1"
+          "sha256": "56fd8d75143b802e52bd00f29dfbb4922f92b4273c6c3cc05190ed413f8a91d1",
+          "role": "method",
+          "purpose": "方法流程、数据处理和阶段性成果",
+          "density": "高"
         },
         {
           "slide": 7,
           "file": "模板2/source-slide-07.png",
-          "sha256": "5706a49de6f70305ee943315eaf44db0991aab80d407785c9ad8bd92c5edfca0"
+          "sha256": "5706a49de6f70305ee943315eaf44db0991aab80d407785c9ad8bd92c5edfca0",
+          "role": "comparison",
+          "purpose": "与其他文献/算法的对比结果",
+          "density": "中高"
         },
         {
           "slide": 8,
           "file": "模板2/source-slide-08.png",
-          "sha256": "d05f5083f6e9867345c727b2ea8728b69c3f09a047b1d20e48e29136e48b2d7f"
+          "sha256": "d05f5083f6e9867345c727b2ea8728b69c3f09a047b1d20e48e29136e48b2d7f",
+          "role": "method",
+          "purpose": "模型、采样和验证流程",
+          "density": "高"
         },
         {
           "slide": 9,
           "file": "模板2/source-slide-09.png",
-          "sha256": "7d38b8b65692aadf8a1043b48a347c7d3343c4c6d58dcda95d7405aa107c0d0e"
+          "sha256": "7d38b8b65692aadf8a1043b48a347c7d3343c4c6d58dcda95d7405aa107c0d0e",
+          "role": "results",
+          "purpose": "具体场景生成、实验结果和应用案例",
+          "density": "中高"
         },
         {
           "slide": 10,
           "file": "模板2/source-slide-10.png",
-          "sha256": "35d48a96abd163cea5d0d541958380a3c8b5b23659ed8e59cd916fa9081f3dc2"
+          "sha256": "35d48a96abd163cea5d0d541958380a3c8b5b23659ed8e59cd916fa9081f3dc2",
+          "role": "method",
+          "purpose": "轨迹模型、参数和公式说明",
+          "density": "高"
         },
         {
           "slide": 11,
           "file": "模板2/source-slide-11.png",
-          "sha256": "7c7b7728cbecd5850c2255b585d591ba7481cb48183be4b4bee379e839aa54c5"
+          "sha256": "7c7b7728cbecd5850c2255b585d591ba7481cb48183be4b4bee379e839aa54c5",
+          "role": "method",
+          "purpose": "方法实现、对比实验和技术细节",
+          "density": "高"
         },
         {
           "slide": 12,
           "file": "模板2/source-slide-12.png",
-          "sha256": "b4fb390a9cbf5f633a57527f47037476ce4570c7899073debd8ae99de0c23d29"
+          "sha256": "b4fb390a9cbf5f633a57527f47037476ce4570c7899073debd8ae99de0c23d29",
+          "role": "comparison",
+          "purpose": "指标、曲线、表格和模型效果对比",
+          "density": "高"
         },
         {
           "slide": 13,
           "file": "模板2/source-slide-13.png",
-          "sha256": "3d394502214de732cede5ce1d41c502acf9592b6796a75d770d7555238ca3669"
+          "sha256": "3d394502214de732cede5ce1d41c502acf9592b6796a75d770d7555238ca3669",
+          "role": "plan",
+          "purpose": "后续工作安排与研究计划",
+          "density": "中高"
         },
         {
           "slide": 14,
           "file": "模板2/source-slide-14.png",
-          "sha256": "a42ae98480f07f3bf84b8a5b29af9c3498b9dc4665aa6b48219ca9295af90405"
+          "sha256": "a42ae98480f07f3bf84b8a5b29af9c3498b9dc4665aa6b48219ca9295af90405",
+          "role": "plan",
+          "purpose": "后续工作安排",
+          "density": "中高"
         },
         {
           "slide": 15,
           "file": "模板2/source-slide-15.png",
-          "sha256": "a838498e6ffa7b45c5af4d285ae2e6ca5f55e409c68128a99c17140eeb8edc4e"
+          "sha256": "a838498e6ffa7b45c5af4d285ae2e6ca5f55e409c68128a99c17140eeb8edc4e",
+          "role": "closing",
+          "purpose": "致谢与结束",
+          "density": "低"
         }
       ],
       "textIndex": "模板2/text-index.md",
-      "textIndexSha256": "85c0a8eb2623b493e316909dd147a1dcf057f2dd0fec19761fa8a078fbd45ab6"
+      "textIndexSha256": "4ca2d68a5168c8f3519747b6c98fc3c91f78e707685e71bb0dfb65b409bf77d9",
+      "selectionProfile": {
+        "primaryUse": [
+          "中期答辩",
+          "科研汇报",
+          "已有进展与后续计划"
+        ],
+        "density": "中高",
+        "visualSignature": "白色正文区配蓝色顶部栏和弧形白色切角，目录页使用浅灰圆角大容器，正文常用蓝色圆角标题条、流程箭头和图表组。",
+        "contentFit": [
+          "研究进展",
+          "技术路线",
+          "仿真/实验方法",
+          "结果对比",
+          "工作计划"
+        ],
+        "caution": [
+          "圆角标题条和章节块是主要识别特征，不应被普通矩形卡片替代"
+        ]
+      },
+      "fixedElements": {
+        "global": [
+          "母版右上角北京交通大学 Logo，位置、比例和清晰度固定",
+          "正文页左上角栏目标题槽位，标题文字可变但位置、字号、颜色和对齐方式沿用原生样式",
+          "正文页顶部蓝色渐变栏、细线和右侧弧形白色切角，属于背景/母版层",
+          "页面编号槽位（实际存在的页面保留原位）"
+        ],
+        "cover": [
+          "封面背景构图、蓝色标题带、下方图片带和报告信息区的几何位置属于模板结构；题目、答辩人、导师、日期和图片内容属于当前内容，可替换"
+        ],
+        "closing": [
+          "致谢页蓝色块、照片区域和校标位置属于模板结构；致谢文字和照片内容属于当前内容，可替换"
+        ]
+      },
+      "editableRegion": "正文内容区为顶部栏目槽位以下的白色页面区域；封面字段/图片带和致谢文字/照片是固定几何中的可替换内容。",
+      "designTokens": {
+        "palette": [
+          {
+            "name": "主深蓝",
+            "approxHex": "#2C4B7B",
+            "usage": "顶部栏、章节条、流程节点和主要标题"
+          },
+          {
+            "name": "辅助蓝",
+            "approxHex": "#577DA4",
+            "usage": "次级框、箭头和图表边界"
+          },
+          {
+            "name": "橙色强调",
+            "approxHex": "#ED7D31",
+            "usage": "方法模块和关键步骤"
+          },
+          {
+            "name": "黄红强调",
+            "approxHex": "#FFC000 / #FF0000",
+            "usage": "重点数字、状态和警示"
+          },
+          {
+            "name": "浅灰底",
+            "approxHex": "#E6E6EA",
+            "usage": "目录和分组背景"
+          }
+        ],
+        "typography": {
+          "primaryCJK": "微软雅黑",
+          "latin": "Times New Roman",
+          "commonSizesPt": "正文约14-16，组标题约18-24，页面标题约20-32，封面标题约40-54"
+        },
+        "layout": "章节条和圆角模块形成视觉骨架，图表、流程和表格按任务组合；整体比模板1留白更多。",
+        "bordersAndShapes": "圆角矩形、浅灰背景块、蓝色箭头和细边界共同组织图文组。"
+      },
+      "pageTypeMap": {
+        "cover": [
+          1
+        ],
+        "agenda": [
+          2
+        ],
+        "background": [
+          3
+        ],
+        "route": [
+          4
+        ],
+        "progress": [
+          5
+        ],
+        "method": [
+          6,
+          8,
+          10,
+          11
+        ],
+        "comparison": [
+          7,
+          12
+        ],
+        "results": [
+          9
+        ],
+        "plan": [
+          13,
+          14
+        ],
+        "closing": [
+          15
+        ]
+      },
+      "fixedElementBoundary": "只把母版/背景层中的校标、正文页左上角栏目标题槽位、顶部蓝色渐变栏/细线/弧形白色切角、页码槽位和致谢页的版式背景视为固定模板元素。正文中的圆角模块、表格、图片、流程、文字和大片白色区域均属于当前汇报内容。",
+      "contentAreas": [
+        {
+          "name": "正文内容区",
+          "status": "content",
+          "boundary": "顶部栏目槽位以下至页面底部的白色区域",
+          "rule": "圆角标题条、表格、图表、流程、照片、文字和留白都按当前材料重组；圆角和分组方式是可复用的表达语言，不是固定样例内容"
+        },
+        {
+          "name": "封面字段区",
+          "status": "content-with-fixed-geometry",
+          "boundary": "封面蓝色标题带和右下报告信息区",
+          "rule": "几何位置和层级沿用模板；题目、答辩人、导师和日期来自当前任务"
+        },
+        {
+          "name": "封面图片带",
+          "status": "content-with-fixed-geometry",
+          "boundary": "封面标题带下方的图片带",
+          "rule": "图片数量、来源和内容可替换；保留模板提供的带状排列、圆角和比例关系"
+        },
+        {
+          "name": "致谢内容区",
+          "status": "content-with-fixed-geometry",
+          "boundary": "致谢页蓝色区域及其照片区域",
+          "rule": "文字和照片可替换；蓝色块与照片的相对位置沿用模板结构"
+        }
+      ]
     },
     {
       "id": "模板3",
       "name": "模板3",
-      "description": "蓝白科研汇报固定框架，包含机构标识、原生标题区域及大量需清理样例图表。",
+      "description": "蓝白科研项目汇报框架，使用 RIOH 标识、细线页眉、浅蓝分组框和任务色块，适合多课题、关键技术和成果效益组织。",
       "scenarios": [
         "科研汇报",
         "项目答辩"
@@ -216,66 +560,213 @@
         {
           "slide": 1,
           "file": "模板3/source-slide-01.png",
-          "sha256": "85d1d073bf8b69627a41a1e08a7544772ab1519d8e23cee831ab1dbfb71f9a43"
+          "sha256": "85d1d073bf8b69627a41a1e08a7544772ab1519d8e23cee831ab1dbfb71f9a43",
+          "role": "cover",
+          "purpose": "项目题目、机构和时间",
+          "density": "低"
         },
         {
           "slide": 2,
           "file": "模板3/source-slide-02.png",
-          "sha256": "3dae9b77814e3ac7fcf4604b56b2f1f56d99e71c14e13a8cdde5e69e59a296ad"
+          "sha256": "3dae9b77814e3ac7fcf4604b56b2f1f56d99e71c14e13a8cdde5e69e59a296ad",
+          "role": "agenda",
+          "purpose": "PART章节目录",
+          "density": "低"
         },
         {
           "slide": 3,
           "file": "模板3/source-slide-03.png",
-          "sha256": "43fda89f6e3f8dfccd2d6b31ccc517b7c7b630ad0d00aa7361e436e48f88d3ad"
+          "sha256": "43fda89f6e3f8dfccd2d6b31ccc517b7c7b630ad0d00aa7361e436e48f88d3ad",
+          "role": "overview",
+          "purpose": "项目背景、总体目标和主要研究内容总览",
+          "density": "中"
         },
         {
           "slide": 4,
           "file": "模板3/source-slide-04.png",
-          "sha256": "a5522189b5b25a260bb65267415b94e17e637a79d84195d227e9a589581c3380"
+          "sha256": "a5522189b5b25a260bb65267415b94e17e637a79d84195d227e9a589581c3380",
+          "role": "task",
+          "purpose": "课题1研究内容和技术路线",
+          "density": "中高"
         },
         {
           "slide": 5,
           "file": "模板3/source-slide-05.png",
-          "sha256": "a09ce0ef1b08017cacaf18fa0108287ae1ec84ed024dc7c1b242b799617e6e13"
+          "sha256": "a09ce0ef1b08017cacaf18fa0108287ae1ec84ed024dc7c1b242b799617e6e13",
+          "role": "task",
+          "purpose": "课题2研究内容和设施布局优化",
+          "density": "中高"
         },
         {
           "slide": 6,
           "file": "模板3/source-slide-06.png",
-          "sha256": "5d76751fab639bee0ae026cb6a1daa987b910faa91890d4cf3e7f53544e22f91"
+          "sha256": "5d76751fab639bee0ae026cb6a1daa987b910faa91890d4cf3e7f53544e22f91",
+          "role": "task",
+          "purpose": "课题3风险研判和推演",
+          "density": "中高"
         },
         {
           "slide": 7,
           "file": "模板3/source-slide-07.png",
-          "sha256": "cbcbc034c6ff44b488c82d11efec4962c4104de17d4a44a839b1ce08f94a159d"
+          "sha256": "cbcbc034c6ff44b488c82d11efec4962c4104de17d4a44a839b1ce08f94a159d",
+          "role": "task",
+          "purpose": "课题4/5及多课题关联",
+          "density": "中高"
         },
         {
           "slide": 8,
           "file": "模板3/source-slide-08.png",
-          "sha256": "6e10417e0778368ed57e6531014ff4f5df42dac385e670a421d066ed485af8a2"
+          "sha256": "6e10417e0778368ed57e6531014ff4f5df42dac385e670a421d066ed485af8a2",
+          "role": "keyTechnology",
+          "purpose": "主要研究内容与关键技术分组",
+          "density": "中高"
         },
         {
           "slide": 9,
           "file": "模板3/source-slide-09.png",
-          "sha256": "bf47db076429d5aac97721b413048eab1d1ac96f915aad436b47ea515ffccb38"
+          "sha256": "bf47db076429d5aac97721b413048eab1d1ac96f915aad436b47ea515ffccb38",
+          "role": "keyTechnology",
+          "purpose": "关键技术、模块和技术链",
+          "density": "中高"
         },
         {
           "slide": 10,
           "file": "模板3/source-slide-10.png",
-          "sha256": "c339be850811c4c1bb7f21cec227701038d54dc4bde2e065c26209f4805babba"
+          "sha256": "c339be850811c4c1bb7f21cec227701038d54dc4bde2e065c26209f4805babba",
+          "role": "keyTechnology",
+          "purpose": "创新内容、课题关联和实施体系",
+          "density": "中高"
         },
         {
           "slide": 11,
           "file": "模板3/source-slide-11.png",
-          "sha256": "eb200a75b866c32db8b1b6379b2f70e0da6fc79a16ee1fc73fa5839a0e6d44eb"
+          "sha256": "eb200a75b866c32db8b1b6379b2f70e0da6fc79a16ee1fc73fa5839a0e6d44eb",
+          "role": "outcomes",
+          "purpose": "预期成果、交付物、科学/社会/经济效益",
+          "density": "中高"
         }
       ],
       "textIndex": "模板3/text-index.md",
-      "textIndexSha256": "4ca86eaee8b3c423b4dc6b1701814429f8d9eae61555dccd35abb1638e24b354"
+      "textIndexSha256": "f86515d631936ec31ddd7b3528266372b209379d42b204ea5ef80b97abea395b",
+      "selectionProfile": {
+        "primaryUse": [
+          "科研汇报",
+          "项目答辩",
+          "多课题/工程项目汇报"
+        ],
+        "density": "中",
+        "visualSignature": "大面积白底、蓝色细线页眉、左上角 RIOH 标识、浅蓝或浅灰分组框，按课题使用蓝绿橙等色块区分。",
+        "contentFit": [
+          "多课题研究内容",
+          "工程技术路线",
+          "关键技术",
+          "成果与效益",
+          "项目型阶段总结"
+        ],
+        "caution": [
+          "风格依赖大留白和轻边界，不宜直接塞入高密度小字卡片"
+        ]
+      },
+      "fixedElements": {
+        "global": [
+          "内容页左上角 RIOH 圆形标识，位置和比例固定",
+          "内容页标题占位槽，标题文字可变但位置、字号、颜色和对齐沿用原生样式",
+          "标题下方蓝色细线和页面比例/白色背景属于固定页面结构"
+        ],
+        "cover": [
+          "封面整页蓝色背景纹理、RIOH 字标和机构信息的构图属于封面结构；题目、日期和报告信息属于当前内容，若背景为整页图片则按图片保留范围处理"
+        ],
+        "closing": []
+      },
+      "editableRegion": "内容页正文区域为标题槽和蓝色细线以下的宽白色页面；封面字段和图片背景按封面结构中的可替换内容处理。",
+      "designTokens": {
+        "palette": [
+          {
+            "name": "主蓝",
+            "approxHex": "#1A5190",
+            "usage": "标题、页眉、主流程和核心节点"
+          },
+          {
+            "name": "浅蓝",
+            "approxHex": "#D5E3EA",
+            "usage": "分组框、背景和辅助模块"
+          },
+          {
+            "name": "任务色块",
+            "approxHex": "#6C8EB0 / #A9C98B / #E8B17A",
+            "usage": "课题、技术模块和成果类别区分"
+          },
+          {
+            "name": "红色强调",
+            "approxHex": "#FF0000",
+            "usage": "少量关键结论或警示"
+          },
+          {
+            "name": "正文底色",
+            "approxHex": "#FFFFFF",
+            "usage": "正文可写区域"
+          }
+        ],
+        "typography": {
+          "primaryCJK": "微软雅黑",
+          "latin": "Times New Roman",
+          "secondary": "等线 / Helvetica Neue",
+          "commonSizesPt": "正文约14-16，图注约10-12，组标题约16-20，封面标题约32-40"
+        },
+        "layout": "以宽白底、大分区和轻边界组织内容；模块之间保留明显留白，适合从总览到课题再到成果的层级展开。",
+        "bordersAndShapes": "浅蓝虚线框、细蓝线、圆角卡片和少量箭头；避免厚重边框和过密小卡片。"
+      },
+      "pageTypeMap": {
+        "cover": [
+          1
+        ],
+        "agenda": [
+          2
+        ],
+        "overview": [
+          3
+        ],
+        "task": [
+          4,
+          5,
+          6,
+          7
+        ],
+        "keyTechnology": [
+          8,
+          9,
+          10
+        ],
+        "outcomes": [
+          11
+        ]
+      },
+      "fixedElementBoundary": "只把内容页的 RIOH 标识、标题占位槽、标题下方蓝色细线、页面比例和白色背景视为固定模板层；封面整页背景图及其封面构图另按封面结构处理。正文中的课题色块、虚线分组框、卡片、图片、流程、箭头、文字和大片白色留白均属于当前汇报内容。",
+      "contentAreas": [
+        {
+          "name": "正文内容区",
+          "status": "content",
+          "boundary": "内容页标题槽和蓝色细线以下的宽白色区域",
+          "rule": "课题色块、虚线分组框、卡片、图片、流程、箭头、文字和留白都按当前材料重组，不预设固定图槽"
+        },
+        {
+          "name": "封面内容区",
+          "status": "content-with-fixed-geometry",
+          "boundary": "封面标题/机构信息和日期所在位置及背景图前的可替换字段",
+          "rule": "保留封面背景构图；题目、日期和报告信息来自当前任务，不能把封面示例事实当作模板固定内容"
+        },
+        {
+          "name": "成果与效益分区",
+          "status": "content",
+          "boundary": "第11页各科学价值、交付物、社会效益和经济效益分区",
+          "rule": "分区关系可作为表达参考，但栏目标题、文字、数量和卡片内容均属于当前材料"
+        }
+      ]
     },
     {
       "id": "模板4",
       "name": "模板4",
-      "description": "蓝白博士开题框架，包含北京交通大学标识、研究背景、技术路线和研究内容等完整示例。",
+      "description": "蓝白博士开题与答辩框架，包含北京交通大学标识、蓝色弧形顶部、黄色栏目标题、红色重点条和完整的背景/路线/方法/结果/计划示例。",
       "scenarios": [
         "博士开题",
         "开题答辩"
@@ -295,81 +786,254 @@
         {
           "slide": 1,
           "file": "模板4/source-slide-01.png",
-          "sha256": "8226ea69b130658c14cac0df383fc3bba2e30a67460489945c2277151c7911be"
+          "sha256": "8226ea69b130658c14cac0df383fc3bba2e30a67460489945c2277151c7911be",
+          "role": "cover",
+          "purpose": "博士论文题目、答辩身份和时间",
+          "density": "低"
         },
         {
           "slide": 2,
           "file": "模板4/source-slide-02.png",
-          "sha256": "e3cb6027e02e70614b1736d98d07b90c3fe0f4bdba1702d5b85ad525e024d78d"
+          "sha256": "e3cb6027e02e70614b1736d98d07b90c3fe0f4bdba1702d5b85ad525e024d78d",
+          "role": "agenda",
+          "purpose": "研究背景、思路、内容和进展目录",
+          "density": "低"
         },
         {
           "slide": 3,
           "file": "模板4/source-slide-03.png",
-          "sha256": "040e8e87d752dae6ddb7c3a769dae5719acfd3e42f443058053966c201d9dde4"
+          "sha256": "040e8e87d752dae6ddb7c3a769dae5719acfd3e42f443058053966c201d9dde4",
+          "role": "background",
+          "purpose": "研究背景、事故案例和研究问题",
+          "density": "高"
         },
         {
           "slide": 4,
           "file": "模板4/source-slide-04.png",
-          "sha256": "ed2c2815893d3727afb7c2c944541a78a5e0ad8cc75eb844af562c3ab538cac4"
+          "sha256": "ed2c2815893d3727afb7c2c944541a78a5e0ad8cc75eb844af562c3ab538cac4",
+          "role": "background",
+          "purpose": "技术背景、现实问题和研究问题",
+          "density": "高"
         },
         {
           "slide": 5,
           "file": "模板4/source-slide-05.png",
-          "sha256": "22895aa107887362d11a69b54f3ccdc5bfd78e5a6a6456afad6075b175cca926"
+          "sha256": "22895aa107887362d11a69b54f3ccdc5bfd78e5a6a6456afad6075b175cca926",
+          "role": "background",
+          "purpose": "政策/责任机制时间线和研究问题",
+          "density": "高"
         },
         {
           "slide": 6,
           "file": "模板4/source-slide-06.png",
-          "sha256": "8dbc8e26d11c0a60068293dcaa315b3f6cd31715788c39315d618efd12c4d472"
+          "sha256": "8dbc8e26d11c0a60068293dcaa315b3f6cd31715788c39315d618efd12c4d472",
+          "role": "literatureReview",
+          "purpose": "研究主题、已有成果、代表文献和研究局限",
+          "density": "高"
         },
         {
           "slide": 7,
           "file": "模板4/source-slide-07.png",
-          "sha256": "ca53399f5077abd0d0f42feb251aada0d134636f23bdb0321fbe29f69862a5e9"
+          "sha256": "ca53399f5077abd0d0f42feb251aada0d134636f23bdb0321fbe29f69862a5e9",
+          "role": "route",
+          "purpose": "总体理论框架和多阶段技术路线",
+          "density": "高"
         },
         {
           "slide": 8,
           "file": "模板4/source-slide-08.png",
-          "sha256": "448f0862bd0608e44bb2a0df201035c307aa53bdedaa8480763ad9a2e64b1f38"
+          "sha256": "448f0862bd0608e44bb2a0df201035c307aa53bdedaa8480763ad9a2e64b1f38",
+          "role": "method",
+          "purpose": "数据来源、预处理和研究内容一",
+          "density": "高"
         },
         {
           "slide": 9,
           "file": "模板4/source-slide-09.png",
-          "sha256": "f70b02e54bdd136e337c66a8fd9a141b8e9f33287fe633dc62855c6de5cbb442"
+          "sha256": "f70b02e54bdd136e337c66a8fd9a141b8e9f33287fe633dc62855c6de5cbb442",
+          "role": "results",
+          "purpose": "典型场景识别、变量关系和阶段性结果",
+          "density": "高"
         },
         {
           "slide": 10,
           "file": "模板4/source-slide-10.png",
-          "sha256": "4520a183413e32c7bc1fbd5959b73545d0e04302d14b7000d341b4f15853c18d"
+          "sha256": "4520a183413e32c7bc1fbd5959b73545d0e04302d14b7000d341b4f15853c18d",
+          "role": "method",
+          "purpose": "因果图、干预方案和效果评估",
+          "density": "高"
         },
         {
           "slide": 11,
           "file": "模板4/source-slide-11.png",
-          "sha256": "5d0b74000cedcd03f89d0a473bf3ad61b25aa1b6c7324ec294b0844067c75205"
+          "sha256": "5d0b74000cedcd03f89d0a473bf3ad61b25aa1b6c7324ec294b0844067c75205",
+          "role": "method",
+          "purpose": "责任划分调查、模型和分析流程",
+          "density": "高"
         },
         {
           "slide": 12,
           "file": "模板4/source-slide-12.png",
-          "sha256": "df5f07dae9e47631e8e3c21b9319dc7bc99c7ff14a7af97439450a7fdd5e5fff"
+          "sha256": "df5f07dae9e47631e8e3c21b9319dc7bc99c7ff14a7af97439450a7fdd5e5fff",
+          "role": "innovation",
+          "purpose": "创新点、理论意义和现实意义",
+          "density": "中高"
         },
         {
           "slide": 13,
           "file": "模板4/source-slide-13.png",
-          "sha256": "533a48cd3e269cf06753cf0a89f2e2788c96e027ae0228a87d841a5298dfe683"
+          "sha256": "533a48cd3e269cf06753cf0a89f2e2788c96e027ae0228a87d841a5298dfe683",
+          "role": "progress",
+          "purpose": "研究进展、数据资料和团队/项目支撑",
+          "density": "中高"
         },
         {
           "slide": 14,
           "file": "模板4/source-slide-14.png",
-          "sha256": "c8f328dafce0fcb2884f94bf1207f492ec172a26af87139d86baf06b1096bd5d"
+          "sha256": "c8f328dafce0fcb2884f94bf1207f492ec172a26af87139d86baf06b1096bd5d",
+          "role": "plan",
+          "purpose": "分阶段工作计划和时间安排",
+          "density": "中高"
         },
         {
           "slide": 15,
           "file": "模板4/source-slide-15.png",
-          "sha256": "2ddc0c8f648dc35786663a0d7fb7b7e5bde8735421a12d1c38d79915dfca5875"
+          "sha256": "2ddc0c8f648dc35786663a0d7fb7b7e5bde8735421a12d1c38d79915dfca5875",
+          "role": "closing",
+          "purpose": "致谢与结束",
+          "density": "低"
         }
       ],
       "textIndex": "模板4/text-index.md",
-      "textIndexSha256": "7ee79795acc3de02771201b63639ef457d1c7063e95370e3f055d88826fe91c1"
+      "textIndexSha256": "b57338fe91a7d0822f40c076a433fbd44aab2f2d3087a3c66fc9b836360eaa30",
+      "selectionProfile": {
+        "primaryUse": [
+          "博士开题",
+          "开题答辩",
+          "研究方案与阶段进展汇报"
+        ],
+        "density": "高",
+        "visualSignature": "蓝色弧形顶部和右上角北京交通大学标识，黄色栏目标题，红色重点条，正文使用虚线框、蓝色节点和多层图文组。",
+        "contentFit": [
+          "政策/研究背景与时间线",
+          "文献现状表格",
+          "复杂技术路线",
+          "方法机制",
+          "创新点、进展和计划"
+        ],
+        "caution": [
+          "红色和黄色只用于关键结论、栏目或状态，不应扩散到所有正文"
+        ]
+      },
+      "fixedElements": {
+        "global": [
+          "右上角北京交通大学 Logo，位置和比例固定",
+          "正文页左上角栏目标题槽位，标题文字可变但位置、字号、颜色和对齐沿用原生样式",
+          "顶部蓝色弧形背景、顶部细线和页面比例属于固定页面结构"
+        ],
+        "cover": [
+          "封面顶部栏目/Logo位置、蓝色标题块、下方图片带和右侧报告信息区的几何关系属于封面结构；题目、导师、报告人、日期和图片内容属于当前内容"
+        ],
+        "closing": [
+          "致谢页顶部 Logo/页眉、蓝色斜切标题块和右侧照片区域的几何关系属于结束页结构；致谢文字和照片内容属于当前内容"
+        ]
+      },
+      "editableRegion": "正文内容区为栏目标题槽以下的白色页面区域；封面字段/图片带和致谢文字/照片是固定几何中的可替换内容。",
+      "designTokens": {
+        "palette": [
+          {
+            "name": "主深蓝",
+            "approxHex": "#1F467D",
+            "usage": "顶部、标题块、流程节点和主要结构"
+          },
+          {
+            "name": "黄色",
+            "approxHex": "#FFC000",
+            "usage": "栏目标题、关键数字和少量重点强调"
+          },
+          {
+            "name": "红色",
+            "approxHex": "#FF0000",
+            "usage": "核心问题、风险、结论或状态强调"
+          },
+          {
+            "name": "浅蓝/灰",
+            "approxHex": "#D5E3EA / #EEF0F2",
+            "usage": "分组底色和辅助区域"
+          },
+          {
+            "name": "正文底色",
+            "approxHex": "#FFFFFF",
+            "usage": "正文可写区域"
+          }
+        ],
+        "typography": {
+          "primaryCJK": "微软雅黑",
+          "commonSizesPt": "正文约14-16，图注约9-12，组标题约18-24，页面标题约20-28，封面标题约36-54"
+        },
+        "layout": "固定顶部结构与栏目标题，正文以时间线、表格、流程、因果/方法图和虚线分组组合；通常保持较高信息密度。",
+        "bordersAndShapes": "蓝色标题条、红色重点条、虚线分组框、浅蓝节点和箭头共同表达层级与关系。"
+      },
+      "pageTypeMap": {
+        "cover": [
+          1
+        ],
+        "agenda": [
+          2
+        ],
+        "background": [
+          3,
+          4,
+          5
+        ],
+        "literatureReview": [
+          6
+        ],
+        "route": [
+          7
+        ],
+        "method": [
+          8,
+          10,
+          11
+        ],
+        "results": [
+          9
+        ],
+        "innovation": [
+          12
+        ],
+        "progress": [
+          13
+        ],
+        "plan": [
+          14
+        ],
+        "closing": [
+          15
+        ]
+      },
+      "fixedElementBoundary": "只把正文页/封面页的顶部蓝色弧形背景、右上角北京交通大学 Logo、左上角栏目标题槽位及其原生位置/样式视为固定模板层；封面和致谢页另有固定几何结构。正文中的红色重点条、蓝色节点、虚线框、表格、时间线、流程、图片、文字和大片白色留白均属于当前汇报内容。",
+      "contentAreas": [
+        {
+          "name": "正文内容区",
+          "status": "content",
+          "boundary": "栏目标题槽以下至页面底部的白色区域",
+          "rule": "红色重点条、蓝色节点、虚线分组框、表格、时间线、流程、图片、文字和留白都按当前材料重组；它们是可复用的表达语言，不是固定示例内容"
+        },
+        {
+          "name": "封面字段与图片区",
+          "status": "content-with-fixed-geometry",
+          "boundary": "封面蓝色标题块、图片带和报告信息区",
+          "rule": "几何位置和层级沿用模板；题目、导师、报告人、日期和图片来自当前任务"
+        },
+        {
+          "name": "致谢内容区",
+          "status": "content-with-fixed-geometry",
+          "boundary": "致谢页蓝色斜切区域及照片区域",
+          "rule": "文字和照片可替换；蓝色块与照片相对位置沿用结束页结构"
+        }
+      ]
     }
   ]
 }
