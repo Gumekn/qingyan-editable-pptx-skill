@@ -1,4 +1,28 @@
 {
+  "usageBoundary": "本索引中的页面角色、页码、页面类型、purpose、逐页文字和设计 token 只用于候选发现、相近页面定位和视觉观察；当前汇报的页数、顺序、章节、标题、页面任务、事实和证据只来自用户需求、原始材料和阶段一确认。模板原生资产的实际复用按 SKILL.md 的原生资产记录和阶段交接规则执行。",
+  "nativeAssetRecord": {
+    "source": "对应模板 PPTX 的原生形状、符号、线条、连接线、文本样式和媒体部件，以及为任务导出的局部预览",
+    "recordLocation": "content-plan.md",
+    "requiredFields": [
+      "assetId",
+      "template",
+      "slide",
+      "shapeIdOrMediaPart",
+      "objectType",
+      "previewPath",
+      "geometry",
+      "fillStrokeOrLine",
+      "colorRole",
+      "fontRole",
+      "reuseDecision"
+    ],
+    "reuseDecisionValues": [
+      "reuse-native",
+      "attach-preview",
+      "retained-image",
+      "no-reuse-with-reason"
+    ]
+  },
   "sources": [
     {
       "id": "模板1",
@@ -134,7 +158,7 @@
         }
       ],
       "textIndex": "模板1/text-index.md",
-      "textIndexSha256": "99c19f53d3eebcc3d2e552f55317a90cb556b907eb3f747d8a43730296716e90",
+      "textIndexSha256": "a2a1f472c58f78388fcc1788c73f8e3b9895afd4c1f2d4ee6f8dbe6bcb80ce19",
       "selectionProfile": {
         "primaryUse": [
           "博士开题",
@@ -395,7 +419,7 @@
         }
       ],
       "textIndex": "模板2/text-index.md",
-      "textIndexSha256": "d1811e3a21a257401148296a1bedf11c014f88cb545b433cd8dfe1c08b8e99eb",
+      "textIndexSha256": "c15db7a5c0861719d4b151ddd53ea980ceeca247ddfb2ecb1849e0a4669c8cf8",
       "selectionProfile": {
         "primaryUse": [
           "中期答辩",
@@ -635,7 +659,7 @@
         }
       ],
       "textIndex": "模板3/text-index.md",
-      "textIndexSha256": "9ed4ee7c54ea0ec3f5a063cbafcd0352768c3ce5e2b11b21358a0b6273df5521",
+      "textIndexSha256": "7b1ce1b92119f350fee5e48234f807a782dff5c553e93063d82aaafb896127e4",
       "selectionProfile": {
         "primaryUse": [
           "科研汇报",
@@ -893,7 +917,7 @@
         }
       ],
       "textIndex": "模板4/text-index.md",
-      "textIndexSha256": "b6c15f4e0d46ef937495b0ec7a0ddd99e2897b637b56babcc5728f516856687e",
+      "textIndexSha256": "c9a79f9d3cbf9eb9c4c98c66eaaf0256e4a3d999c0428544cdea79014a1f8b47",
       "selectionProfile": {
         "primaryUse": [
           "博士开题",
