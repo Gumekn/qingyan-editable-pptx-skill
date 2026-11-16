@@ -1,28 +1,5 @@
 {
-  "usageBoundary": "本索引中的页面角色、页码、页面类型、purpose、逐页文字和设计 token 只用于候选发现、相近页面定位和视觉观察；当前汇报的页数、顺序、章节、标题、页面任务、事实和证据只来自用户需求、原始材料和阶段一确认。模板原生资产的实际复用按 SKILL.md 的原生资产记录和阶段交接规则执行。",
-  "nativeAssetRecord": {
-    "source": "对应模板 PPTX 的原生形状、符号、线条、连接线、文本样式和媒体部件，以及为任务导出的局部预览",
-    "recordLocation": "content-plan.md",
-    "requiredFields": [
-      "assetId",
-      "template",
-      "slide",
-      "shapeIdOrMediaPart",
-      "objectType",
-      "previewPath",
-      "geometry",
-      "fillStrokeOrLine",
-      "colorRole",
-      "fontRole",
-      "reuseDecision"
-    ],
-    "reuseDecisionValues": [
-      "reuse-native",
-      "attach-preview",
-      "retained-image",
-      "no-reuse-with-reason"
-    ]
-  },
+  "usageBoundary": "本索引中的页面角色、页码、页面类型、purpose、逐页文字和设计 token 只用于候选发现、相近页面定位和视觉观察；当前汇报的页数、顺序、章节、标题、页面任务、事实和证据只来自用户需求、原始材料和阶段一确认。模板视觉学习与原生资产复用遵循 SKILL.md。",
   "sources": [
     {
       "id": "模板1",
@@ -158,7 +135,7 @@
         }
       ],
       "textIndex": "模板1/text-index.md",
-      "textIndexSha256": "a2a1f472c58f78388fcc1788c73f8e3b9895afd4c1f2d4ee6f8dbe6bcb80ce19",
+      "textIndexSha256": "e222f87705db5b24128aa1bc9c8c281de3a564e81272b639ed006a7b1d6fb5f4",
       "selectionProfile": {
         "primaryUse": [
           "博士开题",
@@ -419,7 +396,7 @@
         }
       ],
       "textIndex": "模板2/text-index.md",
-      "textIndexSha256": "c15db7a5c0861719d4b151ddd53ea980ceeca247ddfb2ecb1849e0a4669c8cf8",
+      "textIndexSha256": "dc5d7fa7049ea60f4aec63763e258cd4536867b13d0dc11ed5ebe47be135b723",
       "selectionProfile": {
         "primaryUse": [
           "中期答辩",
@@ -659,7 +636,7 @@
         }
       ],
       "textIndex": "模板3/text-index.md",
-      "textIndexSha256": "7b1ce1b92119f350fee5e48234f807a782dff5c553e93063d82aaafb896127e4",
+      "textIndexSha256": "8b75f32fd2aea05ea7c4afc6da30c256245f83b652227df1448ec127836db3ad",
       "selectionProfile": {
         "primaryUse": [
           "科研汇报",
@@ -917,7 +894,7 @@
         }
       ],
       "textIndex": "模板4/text-index.md",
-      "textIndexSha256": "c9a79f9d3cbf9eb9c4c98c66eaaf0256e4a3d999c0428544cdea79014a1f8b47",
+      "textIndexSha256": "02181ea921f1b6822e37c9d40a42ed22f8c1938819bacc8815a865aa00593d6e",
       "selectionProfile": {
         "primaryUse": [
           "博士开题",
