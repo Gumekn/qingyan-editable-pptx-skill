@@ -135,7 +135,7 @@
         }
       ],
       "textIndex": "模板1/text-index.md",
-      "textIndexSha256": "e222f87705db5b24128aa1bc9c8c281de3a564e81272b639ed006a7b1d6fb5f4",
+      "textIndexSha256": "224f9992da0d1dd39bafe15b0959e07b5e3223e570b4815d11afb0a7928177f2",
       "selectionProfile": {
         "primaryUse": [
           "博士开题",
@@ -151,7 +151,7 @@
           "创新点与研究进展"
         ],
         "caution": [
-          "不适合只包含少量文字和单张大图的极简叙事页"
+          "正文多以较高密度的图表和说明展开论证，可关注多图组与局部解释的组织方式"
         ]
       },
       "fixedElements": {
@@ -396,7 +396,7 @@
         }
       ],
       "textIndex": "模板2/text-index.md",
-      "textIndexSha256": "dc5d7fa7049ea60f4aec63763e258cd4536867b13d0dc11ed5ebe47be135b723",
+      "textIndexSha256": "c6ddc71ca362fdfc73da7102e7ec3b0b9da9ac32dd4ed2edc3e7c44bb94f0c76",
       "selectionProfile": {
         "primaryUse": [
           "中期答辩",
@@ -413,7 +413,7 @@
           "工作计划"
         ],
         "caution": [
-          "圆角标题条和章节块是主要识别特征，不应被普通矩形卡片替代"
+          "正文常用圆角标题条和章节块建立分组，可关注标题与内容的比例、分组边界及图文间距"
         ]
       },
       "fixedElements": {
@@ -636,7 +636,7 @@
         }
       ],
       "textIndex": "模板3/text-index.md",
-      "textIndexSha256": "8b75f32fd2aea05ea7c4afc6da30c256245f83b652227df1448ec127836db3ad",
+      "textIndexSha256": "3b1d13ceed39496f980c1be9086b48a72b989878328410fe189cb118a721e5b7",
       "selectionProfile": {
         "primaryUse": [
           "科研汇报",
@@ -653,7 +653,7 @@
           "项目型阶段总结"
         ],
         "caution": [
-          "风格依赖大留白和轻边界，不宜直接塞入高密度小字卡片"
+          "较大的组间留白与轻边界共同区分层级，可关注分区尺度和图文的视觉重量"
         ]
       },
       "fixedElements": {
@@ -703,7 +703,7 @@
           "commonSizesPt": "正文约14-16，图注约10-12，组标题约16-20，封面标题约32-40"
         },
         "layout": "以宽白底、大分区和轻边界组织内容；模块之间保留明显留白，适合从总览到课题再到成果的层级展开。",
-        "bordersAndShapes": "浅蓝虚线框、细蓝线、圆角卡片和少量箭头；避免厚重边框和过密小卡片。"
+        "bordersAndShapes": "浅蓝虚线框、细蓝线、圆角卡片和少量箭头形成较轻的分组边界。"
       },
       "pageTypeMap": {
         "cover": [
@@ -894,7 +894,7 @@
         }
       ],
       "textIndex": "模板4/text-index.md",
-      "textIndexSha256": "02181ea921f1b6822e37c9d40a42ed22f8c1938819bacc8815a865aa00593d6e",
+      "textIndexSha256": "bbd99cd89590068f5b57df16666a80758a6760b69e57b0647ff573aabbbd19e5",
       "selectionProfile": {
         "primaryUse": [
           "博士开题",
@@ -911,7 +911,7 @@
           "创新点、进展和计划"
         ],
         "caution": [
-          "红色和黄色只用于关键结论、栏目或状态，不应扩散到所有正文"
+          "红黄多承担局部强调，与蓝色结构和白底形成主次，可关注强调面积及其与内容重要性的关系"
         ]
       },
       "fixedElements": {
